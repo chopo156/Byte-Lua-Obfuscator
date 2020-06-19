@@ -1,0 +1,30 @@
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csprojAssemblyReference.cache
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\lua_obfuscator.Form1.resources
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\lua_obfuscator.Properties.Resources.resources
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\yunglean_ Lua Obfuscator.exe.config
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\yunglean_ Lua Obfuscator.exe
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\yunglean_ Lua Obfuscator.pdb
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\yunglean_ Lua Obfuscator.exe
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\yunglean_ Lua Obfuscator.pdb
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csproj.CopyComplete
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\Neo.Lua.dll
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\Neo.Lua.pdb
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\Neo.Lua.xml
+C:\Users\altai\source\repos\lua obfuscator\lua obfuscator\bin\Debug\de\Neo.Lua.resources.dll
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\byte Lua Obfuscator.exe.config
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\byte Lua Obfuscator.exe
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\byte Lua Obfuscator.pdb
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\Neo.Lua.dll
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\Neo.Lua.pdb
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\Neo.Lua.xml
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\bin\Debug\de\Neo.Lua.resources.dll
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csprojAssemblyReference.cache
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\lua_obfuscator.Form1.resources
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\lua_obfuscator.Properties.Resources.resources
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\lua obfuscator.csproj.CopyComplete
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\byte Lua Obfuscator.exe
+C:\Users\altai\source\repos\byte lua obfuscator\lua obfuscator\obj\Debug\byte Lua Obfuscator.pdb
